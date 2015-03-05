@@ -1,0 +1,1 @@
+﻿(function () {	var files = ['i18n'];		files.map(function(f){		include('Model/' + f + '.js');	});})();

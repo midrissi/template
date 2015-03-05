@@ -1,0 +1,1 @@
+﻿require('wakemplate').start('/.*\.ssjs$', getFolder('path') + 'views');
